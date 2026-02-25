@@ -1,0 +1,196 @@
+/* VOID-SPACE Wiki — Custom Styles */
+
+:root {
+  --md-primary-fg-color: #0a0a0a;
+  --md-primary-fg-color--light: #1a1a1a;
+  --md-primary-fg-color--dark: #000000;
+  --md-accent-fg-color: #7c3aed;
+  --md-default-bg-color: #0d0d0d;
+  --md-default-fg-color: #e0e0e0;
+  --void-steel: #8a9bb0;
+  --void-purple: #7c3aed;
+  --void-dim: #444;
+  --void-gold: #c9a84c;
+}
+
+/* Body */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #0d0d0d;
+  --md-default-bg-color--light: #111;
+  --md-default-bg-color--lighter: #161616;
+  --md-default-bg-color--lightest: #1a1a1a;
+  --md-default-fg-color: #d8d8d8;
+  --md-default-fg-color--light: #aaa;
+  --md-default-fg-color--lighter: #666;
+  --md-default-fg-color--lightest: #333;
+  --md-typeset-a-color: #9d71ea;
+  --md-code-bg-color: #111;
+}
+
+/* Nav header */
+.md-header {
+  background: #000;
+  border-bottom: 1px solid #222;
+}
+
+.md-header__title {
+  letter-spacing: 0.15em;
+  font-weight: 700;
+  color: #d8d8d8;
+}
+
+/* Tabs */
+.md-tabs {
+  background: #0a0a0a;
+  border-bottom: 1px solid #1e1e1e;
+}
+
+/* Sidebar */
+.md-nav__title {
+  color: var(--void-steel);
+  letter-spacing: 0.08em;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+}
+
+.md-nav__link--active {
+  color: var(--void-purple) !important;
+}
+
+/* Content */
+.md-content__inner h1 {
+  color: #fff;
+  letter-spacing: 0.05em;
+  border-bottom: 1px solid #222;
+  padding-bottom: 0.4em;
+}
+
+.md-content__inner h2 {
+  color: var(--void-steel);
+  font-size: 1.1rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-top: 2em;
+}
+
+.md-content__inner h3 {
+  color: #c0c0c0;
+}
+
+/* Blockquotes — use for lore speech */
+blockquote {
+  border-left: 3px solid var(--void-purple);
+  background: #111;
+  padding: 1em 1.2em;
+  margin: 1.5em 0;
+  color: #bbb;
+  font-style: italic;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Tables */
+.md-typeset table:not([class]) {
+  border: 1px solid #222;
+  font-size: 0.85rem;
+}
+
+.md-typeset table:not([class]) th {
+  background: #111;
+  color: var(--void-steel);
+  letter-spacing: 0.05em;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.md-typeset table:not([class]) td {
+  border-color: #1e1e1e;
+}
+
+.md-typeset table:not([class]) tr:hover td {
+  background: #131313;
+}
+
+/* Admonitions */
+.md-typeset .admonition,
+.md-typeset details {
+  border-left-width: 3px;
+  border-radius: 3px;
+  background: #111;
+}
+
+.md-typeset .admonition.note,
+.md-typeset details.note {
+  border-color: var(--void-purple);
+}
+
+.md-typeset .admonition.warning {
+  border-color: #b45309;
+}
+
+/* Code */
+.md-typeset code {
+  background: #111;
+  color: #9d71ea;
+  border-radius: 3px;
+  padding: 0.1em 0.3em;
+  font-size: 0.85em;
+}
+
+/* Search */
+.md-search__input {
+  background: #111;
+  border: 1px solid #222;
+  color: #d8d8d8;
+}
+
+/* Tags */
+.md-tag {
+  background: #1a1a1a;
+  color: var(--void-steel);
+  border: 1px solid #333;
+  border-radius: 3px;
+  font-size: 0.7rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* Pe/Current display callout */
+.current-display {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 2rem;
+  color: var(--void-purple);
+  text-align: center;
+  padding: 1em;
+  border: 1px solid #222;
+  background: #0a0a0a;
+  margin: 1.5em 0;
+  letter-spacing: 0.1em;
+}
+
+/* Figure name headers */
+.figure-name {
+  font-size: 2rem;
+  color: #fff;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.2em;
+}
+
+.figure-subtitle {
+  color: var(--void-steel);
+  font-size: 0.85rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: 1.5em;
+}
+
+.figure-tagline {
+  font-size: 1.1rem;
+  color: #bbb;
+  font-style: italic;
+  border-left: 3px solid var(--void-purple);
+  padding-left: 1em;
+  margin-bottom: 2em;
+}

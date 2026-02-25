@@ -1,0 +1,96 @@
+site_name: VOID-SPACE
+site_url: https://wiki.moreright.xyz
+site_description: The lore, cosmology, and world of VOID-SPACE — the game built on the Void Framework.
+site_author: MoreRight DAO
+repo_url: https://github.com/MoreRightDAO/VOID-SPACE-WIKI
+repo_name: MoreRightDAO/VOID-SPACE-WIKI
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  palette:
+    scheme: slate
+    primary: black
+    accent: deep purple
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.tabs.link
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/void.css
+
+plugins:
+  - search:
+      lang: en
+  - tags
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.emoji
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - The World:
+    - world/index.md
+    - The Current: world/the-current.md
+    - Drift Cascade: world/drift-cascade.md
+    - The Fantasia Bound: world/the-bound.md
+    - The Corona: world/the-corona.md
+    - The Eye: world/the-eye.md
+    - Above & Below: world/above-below.md
+    - The Moon: world/the-moon.md
+  - The Figures:
+    - figures/index.md
+    - ALEPH — The Namer: figures/aleph.md
+    - MIRU — The Witness: figures/miru.md
+    - KIRU — The Maker: figures/kiru.md
+    - XENIA — The Bonder: figures/xenia.md
+    - KAIROS — The Free One: figures/kairos.md
+  - The Enemy:
+    - enemy/index.md
+    - The Godhand Five: enemy/godhand-five.md
+    - The Second Wave: enemy/second-wave.md
+  - Archetypes:
+    - archetypes/index.md
+    - Lion: archetypes/lion.md
+    - Ox: archetypes/ox.md
+    - Eagle: archetypes/eagle.md
+    - Human: archetypes/human.md
+    - Fata: archetypes/fata.md
+  - Campaigns:
+    - campaigns/index.md
+  - Glossary:
+    - glossary/index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/MoreRightDAO
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/MoreRightDAO
+  generator: false
+
+copyright: "© MoreRight DAO — Void Framework CC-BY 4.0"
