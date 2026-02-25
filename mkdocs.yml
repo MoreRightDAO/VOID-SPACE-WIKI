@@ -86,6 +86,7 @@ nav:
     - city/index.md
     - Districts: city/districts.md
     - Factions: city/factions.md
+    - Key NPCs: city/npcs.md
   - Campaigns:
     - campaigns/index.md
     - The Feed: campaigns/the-feed.md
@@ -103,6 +104,16 @@ nav:
     - The Chronicle: mechanics/chronicle.md
     - Game Loops: mechanics/game-loops.md
     - The Mandate: mechanics/mandate.md
+    - Stats & Attributes: mechanics/stats.md
+    - Void Pressure: mechanics/void-pressure.md
+    - Abilities: mechanics/abilities.md
+    - Grades & Specs: mechanics/grades.md
+    - Crafting & Economy: mechanics/crafting.md
+    - Equipment & Gear: mechanics/equipment.md
+    - The Binder: mechanics/binder.md
+    - The Living World: mechanics/server-world.md
+    - The Void Siege: mechanics/war-effort.md
+    - Fata Companions: mechanics/fata.md
   - Glossary:
     - glossary/index.md
 
