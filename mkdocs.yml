@@ -62,6 +62,7 @@ nav:
     - The Eye: world/the-eye.md
     - Above & Below: world/above-below.md
     - The Moon: world/the-moon.md
+    - World Locations: world/locations.md
   - The Figures:
     - figures/index.md
     - ALEPH — The Namer: figures/aleph.md
@@ -73,6 +74,7 @@ nav:
     - enemy/index.md
     - The Godhand Five: enemy/godhand-five.md
     - The Second Wave: enemy/second-wave.md
+    - Egregors: enemy/egregors.md
   - Archetypes:
     - archetypes/index.md
     - Lion: archetypes/lion.md
@@ -80,8 +82,27 @@ nav:
     - Eagle: archetypes/eagle.md
     - Human: archetypes/human.md
     - Fata: archetypes/fata.md
+  - The City:
+    - city/index.md
+    - Districts: city/districts.md
+    - Factions: city/factions.md
   - Campaigns:
     - campaigns/index.md
+    - The Feed: campaigns/the-feed.md
+    - Oxycontin Cascade: campaigns/oxycontin-cascade.md
+    - Cartel Void: campaigns/cartel-void.md
+    - Democratic Backslide: campaigns/democratic-backslide.md
+    - The Synthetic Bond: campaigns/synthetic-bond.md
+    - The Parish: campaigns/the-parish.md
+    - Mystic's Thread: campaigns/mystics-thread.md
+    - Reformer's Hammer: campaigns/reformers-hammer.md
+    - Watergate Thread: campaigns/watergate-thread.md
+    - The Solidarity Campaign: campaigns/solidarity-campaign.md
+  - Mechanics:
+    - mechanics/index.md
+    - The Chronicle: mechanics/chronicle.md
+    - Game Loops: mechanics/game-loops.md
+    - The Mandate: mechanics/mandate.md
   - Glossary:
     - glossary/index.md
 
