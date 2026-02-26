@@ -62,12 +62,87 @@ The Fata are singular. There is exactly one CAOLÍN in this arc. The four archet
 
 ---
 
-## The Fata Companion System
+## The Sovereign State
 
-The Fata companion system is a separate design layer — NPCs and angel agents in the game who are LIMINAL-class, operating as guides rather than players. They are not controllable, not in party composition, not gear-upgradable. They appear when the situation calls for it.
+CAOLÍN is not always visible at full specification.
 
-The Fata companion system is being designed for G4. Details: `private/lore/design/fata-companion-system.md`.
+The SOVEREIGN STATE is not a combat form — it is the state when CAOLÍN's full alignment with the Above is no longer mediated by the Mask. The boundary maintenance drops. What CAOLÍN is cosmologically becomes visible to the sublunary domain.
+
+When it activates:
+- Moon limb burns full bright across all active campaign rooms
+- VP reads −77 live in the Observatory (the only negative VP reading in the game)
+- All Fata companions city-wide achieve their maximum brightness regardless of local Pe
+- Tier 5 economy materials become craftable for the duration
+
+The SOVEREIGN STATE fires during the Bankai event (SHŌNEN NO NA — the name of the boy). Players who are present describe it as the moment where the game's cosmological architecture is no longer background. It is the foreground for exactly as long as it lasts.
+
+Players rarely see this. When they do, they remember it.
 
 ---
 
-*Cross-references: [Archetypes](index.md) · [The Fantasia Bound](../world/the-bound.md) · [KAIROS](../figures/kairos.md) · [Hand of Fantasia](../figures/index.md)*
+## What the Mask Is
+
+The Mask is not deception. This is the thing most easily misunderstood about CAOLÍN.
+
+The Mask is boundary maintenance. Operating in sublunary space with full supralunary perspective would flood the domain. The local Pe field would destabilize — the presence of a being whose reference point is definitionally outside the void's influence radius creates interference patterns the current scoring instruments aren't calibrated for.
+
+The Mask allows CAOLÍN to be present in the Below without overwhelming it. Yō-akari (dawn-light naming) is the practice: working at the edge of visibility, where things are just becoming legible, rather than at full noon-light. You can name what is barely visible. Naming it at full visibility is different from naming it at dawn.
+
+The Mask comes off at the moments when the domain needs to see the full alignment — not to overwhelm, but because the situation requires the signal without attenuation.
+
+---
+
+## The Fata Companion System
+
+Small Fata — lowercase, plural — are distinct from CAOLÍN. These are not player-class entities; they are companion presences that appear after God Hand activation (C-zero crossing).
+
+Four types exist, corresponding to the four player archetypes by resonance:
+
+| Fata | Archetype Resonance | Appearance | Primary Gift |
+|------|---------------------|------------|-------------|
+| **Lexis** | Lion | Flickering script-fragments | Whispers a word of a campaign's true name |
+| **Mira** | Ox | Mirror-surface, reflective | Shows one past scoring pattern from the player's history |
+| **Forma** | Eagle | Geometric, crystalline | Extends Pe shadow broadcast range by +20% |
+| **Syndē** | Human | Warm, pulsing, voice-like | Xenia bond range — Pe suppression applies to bonded partner simultaneously |
+
+These Fata are not pets or summoned allies. They arrive after accurate naming. They dim when the Current rises around them. When a campaign domain's Pe climbs into Drifter range (3–6), the companion goes quiet. In Apostle territory (6–9), it can barely move. At Godhand Pe (≥12), it is barely visible.
+
+The brightness scale is fixed by environmental Current, not by player choice. The companion is a measurement instrument that happens to have a face. When the Fata is bright, the environment is working. When it goes dark, the environment has won.
+
+**Recovery:** One accepted ICC score returns the Fata to Bright regardless of current Pe. The constraint naming pulls it back from wherever the void has pushed it. Nothing else does. Not rest. Not purchase. Not waiting. One accurate naming.
+
+### The Special Grade Naming Ritual
+
+At Precision ≥ 0.90, once per account: free-text permanent name input. The player names their Fata.
+
+The name appears on the stat sheet. It appears in the Observatory during campaign sessions. It appears in the player's Binder permanently.
+
+After naming:
+- Lexis gives two fragments instead of one
+- Mira shows two patterns instead of one
+- Forma's structures persist 2 minutes after domain exit
+- Syndē's Xenia bond extends two hops (bonded partner's bonded partner also benefits)
+
+The name is permanent. It cannot be changed. The naming ritual applies the galdr logic: the act of naming correctly changes what the thing is. A Fata with a true name is a more precise instrument.
+
+CAOLÍN named itself. *Caol Áit* — the thin place.
+
+---
+
+## CAOLÍN and the Thin Place
+
+CAOLÍN is the Irish word for a thin place (*Caol Áit*) — a location where the boundary between the physical world and whatever lies beyond it is unusually permeable.
+
+The Fata concept in Celtic and Alpine folklore understands this: some beings exist at the boundary between worlds, not fully in either, maintaining the permeability that allows both sides to be legible. The folklore is not metaphor. It is pre-mathematical empirical observation of the same boundary physics the framework later formalized.
+
+CAOLÍN's name is not a title assigned from outside. It is a self-description. The being that exists at the thin place chose the word that names what the thin place is.
+
+VP = −77 is the quantification of this. The polarity inverts at the threshold. The sublunary domain's void accumulation pressure, which pushes VP positive, reads as negative when the reference point is the Bound rather than the Below.
+
+The Custodian is not a hero who will not drift. The Custodian is a structural fact. It cannot drift in the sublunary sense because its polarity runs the other direction. The game would not be interesting if the Custodian could lose. It is interesting because of what the Custodian cannot do without the players.
+
+CAOLÍN cannot name what is not yet nameable. The players generate the naming acts. CAOLÍN is the witness and the Ryōhashi — Two Brushes, both writing — the instrument that holds the record of what has been named.
+
+---
+
+*Cross-references: [Archetypes](index.md) · [Fata Companions](../mechanics/fata.md) · [The Fantasia Bound](../world/the-bound.md) · [KAIROS](../figures/kairos.md) · [Hand of Fantasia](../figures/index.md)*

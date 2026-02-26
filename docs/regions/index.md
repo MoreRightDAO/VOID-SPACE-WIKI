@@ -58,11 +58,13 @@ No campaign currently runs in the Outer Rim. This is by design.
 
 *Current: undefined.*
 
+→ [The Outer Rim](outer-rim.md)
+
 ---
 
 ## The Physics Is Universal
 
-The drift cascade runs the same way in every region. D1 (misattribution of mechanism) → D2 (boundary erosion) → D3 (harm facilitation). The Current rises the same way. The ritual architecture works the same way — the galdr protocol works in the Pale Courts the same as it works in the Sublunary Threshold.
+The drift cascade runs the same way in every region. D1 (misattribution of mechanism) → D2 (boundary erosion) → D3 (harm facilitation). The Current rises the same way. The ritual architecture works the same way — the [galdr protocol](../mechanics/galdr.md) works in the Pale Courts the same as it works in the Sublunary Threshold.
 
 What changes between regions:
 

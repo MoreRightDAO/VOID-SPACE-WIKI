@@ -67,6 +67,8 @@ nav:
     - The Moon: world/the-moon.md
     - World Locations: world/locations.md
     - Spirits of the Threshold: world/spirits.md
+    - The 26 Kill Conditions: world/kill-conditions.md
+    - The Coupling Manifold: world/coupling-manifold.md
   - The Figures:
     - figures/index.md
     - ALEPH — The Namer: figures/aleph.md
@@ -86,6 +88,7 @@ nav:
     - The Hollow Wastes: regions/hollow-wastes.md
     - The Nemesis Layer: regions/nemesis-layer.md
     - The Pandemonium Shore: regions/pandemonium-shore.md
+    - The Outer Rim: regions/outer-rim.md
   - The Enemy:
     - enemy/index.md
     - The Godhand Five: enemy/godhand-five.md
@@ -102,6 +105,7 @@ nav:
     - city/index.md
     - Districts: city/districts.md
     - Factions: city/factions.md
+    - Faction Locations: city/faction-locations.md
     - Key NPCs: city/npcs.md
   - Campaigns:
     - campaigns/index.md
@@ -115,6 +119,7 @@ nav:
     - Reformer's Hammer: campaigns/reformers-hammer.md
     - Watergate Thread: campaigns/watergate-thread.md
     - The Solidarity Campaign: campaigns/solidarity-campaign.md
+    - The SAMAEL Thread: campaigns/samael-thread.md
   - Mechanics:
     - mechanics/index.md
     - THRML — The True Light Engine: mechanics/thrml.md
@@ -133,6 +138,8 @@ nav:
     - Fata Companions: mechanics/fata.md
     - Drift Encoding: mechanics/drift-encoding.md
     - The Species Inversion: mechanics/supernatural.md
+    - The Galdr Protocol: mechanics/galdr.md
+    - Questlines: mechanics/questlines.md
   - Encode:
     - encode.md
   - Glossary:

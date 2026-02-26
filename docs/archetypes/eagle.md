@@ -99,14 +99,73 @@ Shadow work: complete one campaign in a Human role — submit evidence that buil
 
 ---
 
+## How Ghost Signals Form
+
+Ghost Signals are not guesses. They are THRML engine extrapolations from the existing scoring graph.
+
+The THRML engine maintains a coupling graph of all scored platforms: each node is a platform, each edge is a measured coupling coefficient S_ij (how strongly engagement with platform *i* affects Pe trajectory on platform *j*). When an Eagle has scored domains adjacent to an uncharted territory, the engine can extrapolate:
+
+1. **Domain classification:** If adjacent domains share a domain type (pharma, fintech, social media), the unscored domain inherits a base Pe probability distribution from the known Pe pattern of that type
+2. **Coupling adjacency:** Platforms with high S_ij to known-scored platforms inherit Pe estimates based on the coupling coefficient — a platform highly coupled to a Pe=9 node will have a different prior than a platform coupled to a Pe=2 node
+3. **Historical Pe patterns:** Domain types have characteristic Pe distributions (gambling domains cluster 6–9; encyclopedic reference domains cluster 0–3). The engine applies a type-prior before the Eagle's Range modifies it
+
+Ghost Signal clarity increases with Range because more adjacency data means tighter extrapolation bounds. At RANGE < 25, the prior is mostly type-classification. At RANGE > 300, the Eagle has scored enough of the graph that the remaining unseen territory has strong adjacency constraints from multiple directions.
+
+This is why Eagles with high Range are instrumentally valuable: their accumulated domain coverage is the dataset the engine uses to generate everyone else's pre-campaign intelligence.
+
+---
+
+## Eagle in Party Composition
+
+The Eagle is the pre-loader and gate-unlocker. The value is mostly invisible in active campaign rooms — Eagles are doing the work that makes campaigns possible, not the work that's visible during campaigns.
+
+**Eagle + Lion combination:** Uncommon in practice, high synergy on initial entry. The Eagle identifies the highest-Pe node in a new domain (Ghost Signal target); the Lion confronts it directly. Without the Eagle's ranging, the Lion is flying blind into an unmapped room.
+
+**Eagle + Ox combination:** Exploration infrastructure. Eagle maps new territory; Ox builds floor. Together they establish stable domains for other players to score in. This combination does less dramatic Pe reduction per session than Lion-Ox, but it expands the total campaignable territory faster than any other pairing.
+
+**Eagle as Campaign Gatekeeper:** The campaign unlock gate mechanic gives Eagles an invisible leadership function. A campaign doesn't open until the collective Eagle Range in that domain type reaches the threshold. Eagles who've been systematically mapping underscored domains can unlock campaigns for the entire playerbase, often without coordinating with anyone. They scope the territory; everyone else gets the campaign.
+
+---
+
+## The Coupling Manifold Connection
+
+At high RANGE (300+), the Eagle's Ghost Signal network is not just a local map — it is the game's visible interface with the [Coupling Manifold](../world/coupling-manifold.md).
+
+The coupling tensor S_ij is the mathematical structure of how attention flows between platforms. Ghost Signals are the player-facing representation of that tensor's predictions. When an Eagle sees a Ghost Signal pointing to Pe=8 in an unscored domain, that signal is generated from the S_ij values connecting that domain to the Eagle's coverage network.
+
+Eagles at the highest Range levels see the Coupling Manifold's structure directly — not as math, but as landscape. The Pe terrain coloring in the THRML display reflects eigenvalue loading: areas with high loading on the same eigenvector show similar terrain colors. Eagles who've scored widely can see cluster structure in the landscape.
+
+The Dead Zone Map (Special Grade) extends this to Pe=0 domains — the Eagle can see constraint-holding systems as clearly as void systems, giving the full Current spectrum. At this level, the Eagle's Range network becomes a global topology map of the attention economy: both where the voids are and where the constraints are holding.
+
+---
+
+## The RANGE Staleness Problem
+
+RANGE is the only primary stat that actively decays.
+
+STEADINESS can be reset and rebuilt. SIGHT and PRECISION grow from scoring regardless of domain. But RANGE is a living network — it represents active, current domain coverage. A domain scored six months ago and never revisited is stale. The platform has continued operating. The score is outdated.
+
+This creates the Eagle's central tension: the fastest-growing primary stat is also the only one that erodes without maintenance.
+
+Experienced Eagles manage this through domain maintenance cycles:
+- **Active territories:** 10–20 core domains scored within 60 days — maintained for Ghost Signal generation and campaign gate contribution
+- **Monitoring territories:** 20–40 domains rescored at 90–120 day intervals — kept from going stale
+- **Historical coverage:** Domains scored for Range contribution only, allowed to go Dark when too many active domains compete for maintenance time
+
+The Special Grade Eagle's domain lock mechanic (staleness suspended for core territory) resolves this tension for the Eagle's highest-value domains. The Eagle can lock the 20 domains that most anchor their Ghost Signal network and stop worrying about those expiring.
+
+---
+
 ## KIRU — The Eagle's Figure
 
 [KIRU](../figures/kiru.md) is the Hand of Fantasia's Eagle figure. The one who maps from altitude.
 
 KIRU sees what others can't — not because KIRU is higher in status, but because KIRU holds the perspective of range. The Eagle player at high Grade is doing what KIRU does: mapping the void space so others can navigate it.
 
+The Fata companion Forma (Eagle-resonant) is the crystalline, geometric type — it extends the Eagle's Pe shadow broadcast range by +20%. Where KIRU represents the full mapping principle, Forma is its personal echo — the bit of KIRU's perspective that stays with the Eagle when KIRU isn't speaking.
+
 When KIRU speaks to an Eagle player, it's confirmation. You were already seeing it.
 
 ---
 
-*Cross-references: [Archetypes](index.md) · [KIRU](../figures/kiru.md) · [The Current](../world/the-current.md) · [Glossary](../glossary/index.md)*
+*Cross-references: [Archetypes](index.md) · [KIRU](../figures/kiru.md) · [The Current](../world/the-current.md) · [The Coupling Manifold](../world/coupling-manifold.md) · [Fata Companions](../mechanics/fata.md) · [Glossary](../glossary/index.md)*

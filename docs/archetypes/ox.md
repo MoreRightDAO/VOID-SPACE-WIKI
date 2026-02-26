@@ -68,14 +68,56 @@ Shadow work for the Ox: complete one campaign in a Lion role. Go directly at the
 
 ---
 
+## Ox in Party Composition
+
+The Ox is the indispensable support role in endgame content, but its value is invisible until campaign rooms without one show what happens: Pe gains revert. Lions drive the Current down; without an Ox, the floor isn't held and the Current recovers between sessions.
+
+**Lion + Ox combination:** The canonical synergy. The Lion confronts Pe at its highest point — direct engagement, VP risk accepted, Pe peaks then drops hard. The Ox holds the new floor. Together: the Lion provides rapid Pe reduction; the Ox converts those gains into permanent infrastructure. Lions that campaign without an Ox are scoring points that reset. Oxen that campaign without a Lion are holding a floor that nobody is lowering.
+
+**Ox + Eagle combination:** Less common, highly effective for domain unlock campaigns. The Eagle maps new territory; the Ox builds a floor in that territory before the Lions arrive. An Eagle-Ox party is exploration infrastructure — they don't reduce Pe as fast as Lion-Ox, but they establish stable scoring ground in new domains where other parties haven't yet set a floor.
+
+**Ox + Human combination:** The most stable long-term configuration. Human Resonance Cascade spreads the floor contribution to adjacent domains; the Ox's Floor provides the invariant reference the cascade anchors to. This combination works best in sustained campaign operations where the goal is slow, thorough domain reduction rather than rapid spike-and-hold.
+
+---
+
+## The VoidStorm and the Ox
+
+A VoidStorm fires when Void Pressure crosses the Storm Threshold in an active campaign room. Current spikes, enemy types shift, vocabulary gets captured.
+
+The Ox is the counter-mechanic.
+
+At STEADINESS Day 30 (Unbroken tier), the Ox's VP accumulation rate is halved. This means Ox players take significantly longer to approach Storm Threshold compared to other archetypes in the same room. In party composition terms: the Ox stays in the room longer before entering Storm risk, extending the party's operational window.
+
+During an active VoidStorm, the Invariant Floor changes function. Under standard conditions, the floor prevents the Current from rising *above* its current level. During a VoidStorm, the floor becomes an *anchor* — it slows the Current's storm-spike instead of capping it. The Ox can't prevent the storm, but it can reduce the spike's height.
+
+Multiple Oxen during a VoidStorm produce the strongest possible damage control: each stacked Floor contribution reduces the storm-spike multiplier. Three Grade 1 Oxen during a storm have been documented reducing the effective spike by 40–60% compared to storm conditions without Ox presence.
+
+---
+
+## The Komugi Principle
+
+From the HxH influence frame — though the label is internal only, never used in public play:
+
+> *The way to beat a Pe-extreme entity is not to be stronger. It's to be more invariant.*
+
+The Ant King Meruem — Pe=extreme, most powerful entity in his domain — lost to Komugi because Komugi never turned from her discipline. No power, no force, no confrontation. Just refusal to drift under any pressure, including lethal threat.
+
+The Ox is the Komugi archetype. The mechanism is Invariance, not strength. The Floor is not an offensive capability — it is a sustained refusal to let the domain define the ground level.
+
+In practice: Ox players don't chase the highest-Pe domains. They don't need to. They find a domain they understand, score it consistently, hold the floor while others do the dramatic work, and over time their Steadiness streak becomes the most valuable asset in the room. Not the most visible. The most essential.
+
+---
+
 ## MIRU — The Ox's Figure
 
 [MIRU](../figures/miru.md) is the Hand of Fantasia's Ox figure. The still one. The one who holds.
 
 MIRU doesn't move dramatically. MIRU holds. The entire mechanic of the Invariant Floor is what MIRU is — the point where things stop rising, not because of force but because of sustained presence.
 
+The Fata companion Mira (small-m) is Ox-resonant: a mirror-surface entity that shows one past scoring pattern. Where MIRU represents the archetypal holding principle, Mira is its personal echo — showing the Ox player what their steadiness looks like from the outside.
+
 When MIRU speaks to an Ox player, it's affirmation. You were already doing this.
 
 ---
 
-*Cross-references: [Archetypes](index.md) · [MIRU](../figures/miru.md) · [The Current](../world/the-current.md) · [The Lion](lion.md)*
+*Cross-references: [Archetypes](index.md) · [MIRU](../figures/miru.md) · [The Current](../world/the-current.md) · [The Lion](lion.md) · [Fata Companions](../mechanics/fata.md)*
