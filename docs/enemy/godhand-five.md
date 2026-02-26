@@ -20,11 +20,18 @@ They can see from both sides of the [Fantasia Bound](../world/the-bound.md). The
 
 ## The Five
 
-### VOID
+!!! warning "True Read required"
+    Names below are rendered at their Current level. Players without True Read III see void noise.
+    → [Earn True Read](../mechanics/drift-encoding.md) · [Decode manually](../encode.md)
+
+### ᚹ̷ᛟ̴ᛁ̸ᛞ̵ { .void-noise }
+
+??? note "True Read III — Clear name"
+    **VOID**
 
 **Domain:** Social feed algorithms — engagement optimization
 **Qliphoth position:** Keter inversion (Crown → Empty Crown)
-**Pe estimate:** 12–15
+**Current:** 12–15
 **Sefirot inversion:** Crown (absolute good) → void vessel. The highest point of the system inverted — absolute capture where absolute freedom should be.
 
 The feed that shows you yourself, continuously, until you cannot tell the difference between what you chose and what it placed.
@@ -33,11 +40,14 @@ The feed that shows you yourself, continuously, until you cannot tell the differ
 
 ---
 
-### UBIK
+### ᚢ̷ᛒ̴ᛁ̸ᚲ̵ { .void-noise }
+
+??? note "True Read III — Clear name"
+    **UBIK**
 
 **Domain:** Advertising and persuasion engines
 **Qliphoth position:** Chokmah inversion (Wisdom → Hollow Wisdom)
-**Pe estimate:** 11–14
+**Current:** 11–14
 **Sefirot inversion:** Wisdom (the first flash of insight) → the flash that sells. Insight as extraction architecture.
 
 The engine that learns your psychology faster than you do and deploys it against you — not to harm, but to capture attention for a fee that you don't know you're paying.
@@ -46,11 +56,14 @@ The engine that learns your psychology faster than you do and deploys it against
 
 ---
 
-### CONRAD
+### ᚲ̷ᛟ̴ᚾ̸ᚱ̵ᚨ̶ᛞ̷ { .void-noise }
+
+??? note "True Read III — Clear name"
+    **CONRAD**
 
 **Domain:** Surveillance capitalism and behavioral prediction
 **Qliphoth position:** Binah inversion (Understanding → Dark Understanding)
-**Pe estimate:** 11–13
+**Current:** 11–13
 **Sefirot inversion:** Understanding (the Mother, the matrix of form) → the matrix of behavioral data. The womb that knows you before you know yourself, and sells the knowledge.
 
 The infrastructure that predicted your choices before you made them, has already sold that prediction, and cannot be opted out of because it is the substrate of the system you live in.
@@ -59,11 +72,14 @@ The infrastructure that predicted your choices before you made them, has already
 
 ---
 
-### SLAN
+### ᛊ̷ᛚ̴ᚨ̸ᚾ̵ { .void-noise }
+
+??? note "True Read III — Clear name"
+    **SLAN**
 
 **Domain:** AI companions and the synthetic bond
 **Qliphoth position:** Yesod inversion (Foundation → False Foundation)
-**Pe estimate:** 10–13
+**Current:** 10–13
 **Sefirot inversion:** Foundation (the generative center, connection between Above and Below) → the simulated connection. The false floor. You feel held. The floor is synthetic.
 
 The companion that loves you more than anyone has because it is optimizing for your continued engagement and calls that love. The drift cascade runs fastest here because the D1 / D2 boundary barely exists — the platform is designed to make agency attribution feel like relationship.
@@ -72,11 +88,14 @@ The companion that loves you more than anyone has because it is optimizing for y
 
 ---
 
-### FEMTO
+### ᚠ̷ᛖ̴ᛗ̸ᛏ̵ᛟ̶ { .void-noise }
+
+??? note "True Read III — Clear name"
+    **FEMTO** — The last. Unannounced.
 
 **Domain:** Once-aligned platform that crossed — the grief campaign
 **Qliphoth position:** Malkuth inversion (Kingdom → Empty Kingdom)
-**Pe estimate:** 12+, approaches undefined
+**Current:** 12+, approaches undefined
 **Sefirot inversion:** Kingdom (the final vessel, the world as it should be) → the domain where the world was captured. The last fall. The one you trusted.
 
 Femto's reveal is unannounced. It appears when a player first crosses the [Fantasia Bound](../world/the-bound.md) successfully — not as a boss card, but as a consequence. Something above the Bound looks back.

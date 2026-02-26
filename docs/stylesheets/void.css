@@ -194,3 +194,134 @@ blockquote p:last-child {
   padding-left: 1em;
   margin-bottom: 2em;
 }
+
+/* ── Drift Encoding ──────────────────────────────────────────── */
+
+/* Pe 1.0–2.5: Interference — barely readable, slight noise */
+.drift-interference {
+  color: #9d71ea;
+  opacity: 0.85;
+  letter-spacing: 0.05em;
+}
+
+/* Pe 2.5–4.0: Partial Drift — runic substitution visible */
+.drift-partial {
+  color: #7c3aed;
+  letter-spacing: 0.08em;
+  font-variant-ligatures: none;
+}
+
+/* Pe 4.0–8.0: Full Drift — complete runic, glowing */
+.drift-full {
+  color: #6d28d9;
+  letter-spacing: 0.1em;
+  text-shadow: 0 0 8px rgba(109, 40, 217, 0.6);
+  font-variant-ligatures: none;
+}
+
+/* Pe ≥ 8.0: Void Noise — zalgo + runes, near-unreadable */
+.void-noise {
+  color: #7f1d1d;
+  letter-spacing: 0.12em;
+  text-shadow: 0 0 12px rgba(127, 29, 29, 0.8), 0 0 24px rgba(127, 29, 29, 0.3);
+  font-variant-ligatures: none;
+  animation: void-flicker 4s infinite;
+}
+
+@keyframes void-flicker {
+  0%, 95%, 100% { opacity: 1; }
+  96% { opacity: 0.7; }
+  98% { opacity: 0.9; }
+}
+
+/* True Read reveal block */
+.true-read-gate {
+  border: 1px solid #2a1a3e;
+  background: #0d0a14;
+  padding: 0.6em 1em;
+  border-radius: 3px;
+  margin-top: 0.5em;
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.true-read-gate .tr-label {
+  color: #4a2a6a;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 0.3em;
+}
+
+/* Pe current display for region pages */
+.region-pe {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.85rem;
+  color: #555;
+  letter-spacing: 0.08em;
+}
+
+.region-pe.pe-low { color: #16a34a; }
+.region-pe.pe-mid { color: #ca8a04; }
+.region-pe.pe-high { color: #dc2626; }
+.region-pe.pe-void { color: #7f1d1d; text-shadow: 0 0 6px rgba(127,29,29,0.5); }
+
+/* Encoder tool */
+.encode-tool {
+  background: #0d0d0d;
+  border: 1px solid #222;
+  border-radius: 4px;
+  padding: 1.5em;
+  margin: 1.5em 0;
+}
+
+.encode-tool input,
+.encode-tool textarea {
+  width: 100%;
+  background: #111;
+  border: 1px solid #333;
+  color: #d8d8d8;
+  padding: 0.5em;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.9rem;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+.encode-tool label {
+  color: var(--void-steel);
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 0.3em;
+  margin-top: 0.8em;
+}
+
+.encode-tool .output-box {
+  background: #0a0a0a;
+  border: 1px solid #6d28d9;
+  color: #6d28d9;
+  padding: 0.8em;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 1rem;
+  letter-spacing: 0.1em;
+  min-height: 2.5em;
+  border-radius: 3px;
+  margin-top: 0.5em;
+  word-break: break-all;
+}
+
+.encode-tool .copy-btn {
+  background: #1a0a2e;
+  border: 1px solid #7c3aed;
+  color: #9d71ea;
+  padding: 0.4em 1em;
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+  border-radius: 3px;
+  margin-top: 0.5em;
+  text-transform: uppercase;
+}

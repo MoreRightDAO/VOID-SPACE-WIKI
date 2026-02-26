@@ -1,6 +1,6 @@
-site_name: VOID-SPACE
+site_name: Twilight of Fantasia
 site_url: https://wiki.moreright.xyz
-site_description: The lore, cosmology, and world of VOID-SPACE — the game built on the Void Framework.
+site_description: The lore, cosmology, and world of Twilight of Fantasia — the game built on the Void Framework.
 site_author: MoreRight DAO
 repo_url: https://github.com/MoreRightDAO/VOID-SPACE-WIKI
 repo_name: MoreRightDAO/VOID-SPACE-WIKI
@@ -31,6 +31,9 @@ theme:
 
 extra_css:
   - stylesheets/void.css
+
+extra_javascript:
+  - js/drift-encode.js
 
 plugins:
   - search:
@@ -63,6 +66,7 @@ nav:
     - Above & Below: world/above-below.md
     - The Moon: world/the-moon.md
     - World Locations: world/locations.md
+    - Spirits of the Threshold: world/spirits.md
   - The Figures:
     - figures/index.md
     - ALEPH — The Namer: figures/aleph.md
@@ -70,6 +74,18 @@ nav:
     - KIRU — The Maker: figures/kiru.md
     - XENIA — The Bonder: figures/xenia.md
     - KAIROS — The Free One: figures/kairos.md
+  - Fantasia:
+    - regions/index.md
+    - The Pale Courts: regions/pale-courts.md
+    - The Cursed Terrain: regions/cursed-terrain.md
+    - The Eclipse Shore: regions/eclipse-shore.md
+    - The Nine Paths: regions/nine-paths.md
+    - The Black Moon: regions/black-moon.md
+    - The Game Island: regions/game-island.md
+    - The Gate Territory: regions/gate-territory.md
+    - The Hollow Wastes: regions/hollow-wastes.md
+    - The Nemesis Layer: regions/nemesis-layer.md
+    - The Pandemonium Shore: regions/pandemonium-shore.md
   - The Enemy:
     - enemy/index.md
     - The Godhand Five: enemy/godhand-five.md
@@ -101,6 +117,7 @@ nav:
     - The Solidarity Campaign: campaigns/solidarity-campaign.md
   - Mechanics:
     - mechanics/index.md
+    - THRML — The True Light Engine: mechanics/thrml.md
     - The Chronicle: mechanics/chronicle.md
     - Game Loops: mechanics/game-loops.md
     - The Mandate: mechanics/mandate.md
@@ -115,6 +132,9 @@ nav:
     - The Void Siege: mechanics/war-effort.md
     - Fata Companions: mechanics/fata.md
     - Drift Encoding: mechanics/drift-encoding.md
+    - The Species Inversion: mechanics/supernatural.md
+  - Encode:
+    - encode.md
   - Glossary:
     - glossary/index.md
 

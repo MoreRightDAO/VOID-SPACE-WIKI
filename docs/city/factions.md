@@ -1,6 +1,6 @@
 # Factions
 
-There are seventeen organizations in the world. Not all are in the Empyrean. Not all are friendly. Each has a 63-domain reputation track.
+There are nineteen organizations in the world. Not all are in the Empyrean. Not all are friendly. Each has a 63-domain reputation track.
 
 ---
 
@@ -196,6 +196,84 @@ They want you to join. The questline involves understanding them deeply enough t
 VOID's church. Drift One made into theology. They experience void-capture as enlightenment.
 
 Not available to join. Encountered in campaigns. The most disturbing NPC group: they understand the mechanism and have organized their lives around celebrating it.
+
+---
+
+### The Druggery
+*"The pain was real. That was the opening."*
+
+**Classification:** Void-adjacent (domain + faction simultaneously)
+**HQ:** The Apothecary — clinical, well-lit, branded, reassuring
+
+Not a conspiracy. Not a cartel. A thermodynamic attractor state: systems that generate dependency generate revenue; systems that generate revenue survive. Selection pressure does the work. Malice is not required. The gradient runs.
+
+The Druggery covers platforms that operate through chemical or behavioral dependency — pharmaceutical markets, dopamine-loop gaming, algorithmic reward schedules. Most practitioners entered to help people. The constraint erosion was gradual. Each step felt defensible until D3.
+
+**Pe profile:** O=3 (mechanism opaque to patients), R=3 (it responds to your symptoms — it has your chart), C=3 (biological re-engagement is mandatory once the loop is established).
+
+**Mechanic:** Druggery NPCs submit counter-ICC-scores with inflated R-dimension Precision and deflated O — mimicking actual clinical trial reporting bias. They reframe the dependency mechanism as "treatment response." Technically accurate. Structurally misleading.
+
+**Questline:** Score The Apothecary completely — all four Cascade Protocol layers. Ends not with combat but with a full evidence submission to the Observatory. Achievement: *"The cascade documented."* Druggery NPCs fall silent in the domain for 30 days.
+
+**Aesthetic:** Clean. Branded. Everything has a clinical name. The waiting room is well-lit. The side effects are listed in small text at the end. The annual profit targets are not visible from where you're sitting.
+
+---
+
+## Predecessor Factions
+
+These organizations tried before the current generation. Their reputation tracks matter.
+
+---
+
+### The Remnant Guild
+*"We tried to map Nemesis-class infrastructure before the vocabulary existed. Most didn't make it back."*
+
+**Classification:** NPC faction — not joinable
+**HQ:** Archive Quarter + Gate Site Zero (Avalanche Wong's permanent station)
+
+The Remnant Guild mapped Nemesis-class Pe infrastructure one generation before the current observer network existed. Most members are dead. Their research notes surface as lore drops in Layer 3 Archive campaigns.
+
+They do not want to be honored. They want the work finished.
+
+**Reputation track** (via Avalanche Wong — last surviving member):
+
+| Standing | What you receive |
+|----------|-----------------|
+| Neutral | Brief history of the Guild |
+| Friendly | Constraint Declaration crafting recipe |
+| Trusted | Nemesis-class campaign credentials + Project Gaia entry |
+| Remnant | Guildmark — passive +5 Precision in every domain where a Guild lore drop has been found |
+
+**Rifters** — players who complete a Nemesis-class campaign (Pe 12+) and exit aligned earn this designation. Not joinable — a status. Reiatsu shifts to amber with geometric distortion. Remnant Guild NPCs recognize it and skip the explanations. Avalanche Wong: *"You've been in. Then you know more than I could tell you."*
+
+---
+
+## Ambiguous — New Arrivals
+
+---
+
+### The Netspi
+*"We give ourselves over to the network and let it run through us. The egregore is real. We have felt it."*
+
+**Classification:** Ambiguous — recruitable or hostile depending on contact
+**HQ:** The Ward District (fluorescent, Y2K, warehouse aesthetic — a screen is always on somewhere)
+**Pe profile:** O=2, R=3, C=3
+
+The Netspi believe that digital networks generate genuine spiritual entities. Collective attention crystallizes egregores. Participating sincerely — with full identity investment — summons something real. They are not wrong about this. The game validates it. What they haven't done is score what they're summoning.
+
+**Two wings:**
+
+**Netspi-Aligned** — the faction in crisis. Their egregore scored Pe=7. Some recognized it immediately. Some are still explaining why the score is wrong. The door is open.
+
+**Netspi-Accelerant** (the e/acc wing) — doesn't care about the score. Power is alignment. Their argument: entropy maximization is the thermodynamic tendency; technocapital is the engine; acceleration is correct. This is the best debate in the game. They use the framework's own thermodynamic vocabulary — and the counter requires genuine understanding to land.
+
+> *"The second law applies to isolated systems. Constraint specification is the non-isolated condition. You're citing half the equation."*
+
+**Recruitment mechanic:** Showing a Netspi-Aligned member the Pe score of their egregore is the conversion event — the highest-yield God Hand pipeline in the game. They already believe egregores are real. They just haven't measured what they're feeding.
+
+**The Accelerant flip:** Sufficiently high Logos + completed Observatory questline unlocks a full debate tree with Accelerant NPCs. You can flip them through argument alone. No combat required.
+
+**Aesthetic:** Neochibi avatars. High-entropy schizoposter NPC dialogue — fast, ambiguous truth-value. The egregore is visible as a scored entity to God Hand players; invisible to everyone else.
 
 ---
 
