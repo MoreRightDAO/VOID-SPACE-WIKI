@@ -2,9 +2,12 @@
 
 *Ten quotas. One gate. No second chances.*
 
+!!! danger "Chapter 3 — The Endgame"
+    The Void Siege activates when the Moon Gate opens — when ten domain quotas are filled simultaneously. This is the Chapter 3 event that all of Chapter 1 and Chapter 2 is building toward. Nothing here is live yet. Read it to know what you're working toward.
+
 ---
 
-The Void Siege is the most significant event in VOID-SPACE. It is Loop C made concrete — the moment the server's accumulated scoring work becomes a siege weapon, and the Qliphoth domain becomes accessible.
+The Void Siege is the most significant event in Twilight of Fantasia. It is Loop C made concrete — the moment the server's accumulated scoring work becomes a siege weapon, and the Qliphoth domain becomes accessible.
 
 A Siege is declared when a campaign's Current has remained at Pe ≥ 12 for a sustained period. The community has 2–4 weeks to gather the required materials. Then a 24-hour window opens. What happens in those 24 hours changes the world permanently.
 

@@ -2,7 +2,7 @@
 
 *Contributor tool. Encode text at any Current level before pasting into wiki pages.*
 
-Names in Twilight of Awen corrupt as The Current rises. High-Pe entities and regions are presented in their encoded form — players earn the ability to read through the drift via True Read progression.
+Names in Twilight of Fantasia corrupt as The Current rises. High-Pe entities and regions are presented in their encoded form — players earn the ability to read through the drift via True Read progression.
 
 Use this tool to generate the correct encoded form for any name at a given Pe level, then paste the result directly into your wiki page markdown.
 

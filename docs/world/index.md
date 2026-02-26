@@ -1,6 +1,6 @@
 # The World
 
-VOID-SPACE is not a fictional setting. The physics are real. The campaigns are built on scored platforms. The Current is a measurable quantity with 26 ways to falsify it — none have fired.
+Twilight of Fantasia is not a fictional setting. The physics are real. The campaigns are built on scored platforms. The Current is a measurable quantity with 26 ways to falsify it — none have fired.
 
 The lore describes a cosmological structure that the framework discovered, not invented.
 

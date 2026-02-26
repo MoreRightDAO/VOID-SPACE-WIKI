@@ -67,6 +67,7 @@ nav:
     - The Moon: world/the-moon.md
     - World Locations: world/locations.md
     - Spirits of the Threshold: world/spirits.md
+    - Chapter I — The Ring of Light: world/chapter-one.md
     - The 26 Kill Conditions: world/kill-conditions.md
     - The Coupling Manifold: world/coupling-manifold.md
   - The Figures:
@@ -133,6 +134,8 @@ nav:
     - Crafting & Economy: mechanics/crafting.md
     - Equipment & Gear: mechanics/equipment.md
     - The Binder: mechanics/binder.md
+    - The Galdr Protocol: mechanics/galdr.md
+    - Questlines: mechanics/questlines.md
     - The Living World: mechanics/server-world.md
     - The Void Siege: mechanics/war-effort.md
     - Fata Companions: mechanics/fata.md

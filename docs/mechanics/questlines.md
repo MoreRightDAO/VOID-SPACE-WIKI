@@ -2,6 +2,9 @@
 
 *Questlines are not side content. They are the places where the mechanic becomes personal.*
 
+!!! abstract "Chapter 2"
+    Questlines require the NPC system and faction reputation tracks, which launch in Chapter 2. In Chapter 1, the campaigns are the primary story layer. Questlines here are documented for context — they won't be playable until the NPC system is live.
+
 ---
 
 Campaigns score platforms. Questlines score relationships — between players and factions, between factions and the mechanisms they serve, between the player and the question of what kind of observer they're becoming.

@@ -2,6 +2,9 @@
 
 *"Name it before you score it. You should be able to see the mechanism before you measure it. If you can't, the score isn't ready."*
 
+!!! abstract "Chapter 2"
+    The Galdr Protocol (pre-score prediction declarations) launches in Chapter 2 with the Grade 2 scoring interface. In Chapter 1, you score without pre-declaration. The rune system and Ansuz bonus are Chapter 2.
+
 ---
 
 The Galdr Protocol is an optional mechanic available to all players at Grade 2 and above. Before submitting a platform score, the player writes a brief declaration naming what they expect to find — their prediction of the O/R/C breakdown before the ICC evaluation runs.

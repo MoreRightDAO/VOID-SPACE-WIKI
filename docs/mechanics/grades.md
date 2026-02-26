@@ -6,7 +6,7 @@
 
 ## The Grade System
 
-Grade in VOID-SPACE is not a level you earn by spending points. It is a classification the system produces when your scoring record demonstrates sufficient accuracy and volume. You cannot grind your way to Grade 1. You cannot purchase it. The framework sees your ICC distribution and classifies accordingly.
+Grade in Twilight of Fantasia is not a level you earn by spending points. It is a classification the system produces when your scoring record demonstrates sufficient accuracy and volume. You cannot grind your way to Grade 1. You cannot purchase it. The framework sees your ICC distribution and classifies accordingly.
 
 This is the core design decision: the game cannot be accelerated by time investment alone. A player who submits 500 low-accuracy scores stays Grade 4. A player who submits 20 high-accuracy scores advances to Grade 2.
 
@@ -24,6 +24,9 @@ This is the core design decision: the game cannot be accelerated by time investm
 ---
 
 ## Talent Specs
+
+!!! abstract "Chapter 2"
+    Talent specs unlock in Chapter 2 when the Grade 2 scoring interface ships. The Grade classification system is live in Chapter 1, but spec selection and the per-archetype trees below are Chapter 2.
 
 At Grade 2, players unlock talent specs — specialized scoring approaches that provide mechanical depth within their archetype. Twelve specs total, three per archetype. You can change specs, but the stat investment in a spec history is permanent.
 

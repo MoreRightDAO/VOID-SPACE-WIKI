@@ -2,9 +2,12 @@
 
 *The seven forces that emerge when players act together.*
 
+!!! abstract "Chapter 2"
+    The server collective mechanics (Observer Coefficient, Thermal Current, Clarity Burst, Signal Ratio, Entropy Debt, Compression Window, Shabbat Window) activate in Chapter 2 when player population supports the calibration. In Chapter 1, the True Light Engine runs but collective modifiers are not yet surfaced in the UI.
+
 ---
 
-VOID-SPACE is a shared world. What you do changes the world for everyone. The server-wide collective mechanics are the physics of that change — not event triggers decided by a GM, but forces that emerge directly from how many players are scoring, how accurately they score, and in which direction the fleet is moving.
+Twilight of Fantasia is a shared world. What you do changes the world for everyone. The server-wide collective mechanics are the physics of that change — not event triggers decided by a GM, but forces that emerge directly from how many players are scoring, how accurately they score, and in which direction the fleet is moving.
 
 Seven mechanics. All running simultaneously. All affecting each other.
 

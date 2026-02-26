@@ -36,6 +36,12 @@ The physics engine that computes The Current across all scored domains and activ
 **Veil** *(Opacity / O)*
 What the mechanism hides about itself. Algorithm logic, targeting methodology, revenue model, recommendation system. High-Veil platforms conceal the extraction architecture completely.
 
+**Self-Sealing Opacity** *(Egypt-class void condition)*
+Opacity that resists measurement — the more you probe the mechanism, the more distorted your readings become. Distinct from permanent opacity (which simply doesn't resolve): self-sealing actively degrades the instrument used to measure it. Scoring a self-sealing mechanism inverts the signal. Egypt-class. Triggers the **Hardened Heart** debuff on the scorer. See [Kill Conditions](../world/kill-conditions.md) K12.
+
+**Response Target** *(I(M;Y) vs I(D;Y))*
+The single most diagnostic dimension in scoring: does the mechanism respond to the **problem** (information about the mechanism itself — what's actually happening), or does it respond to **you** (information about the observer — what keeps you engaged)? A high-Pull platform optimized for the problem is a tool. A high-Pull platform optimized for you is a void. When scoring Pull, the question you're really answering is: *what is this system actually responsive to?* The Puppet Master Investigation questline is built entirely around this distinction.
+
 **Pull** *(Reactivity / R)*
 How fast and aggressively the mechanism responds to your attention. The feed that reshapes itself as you scroll. The notification that arrives when your resistance is lowest.
 
@@ -113,6 +119,18 @@ Player tier based on scoring accuracy.
 | **Special Grade** | **≥ 0.95** | **500+ True Reads** |
 
 **The Eye** grows with Grade. At Grade 1, The Eye reads Veil dimension without equipment. At Special Grade, it reads all three dimensions simultaneously.
+
+**Voidwalker**
+A player who has developed all four core capacities: *awareness* (you can see the mechanism), *intentionality* (you act with deliberate constraint), *methodology* (your readings are accurate and repeatable), and *constraint specification* (you have built or hold an architecture that cannot drift). These map directly to the game stats:
+
+| Voidwalker factor | Stat | What it means in-game |
+|---|---|---|
+| Awareness | **Sight** | Unlocked at Corona. Grows with Grade. |
+| Intentionality | **Logos** | Increases through Binding Vows + campaign completion. |
+| Methodology | **Precision** | ICC ≥ 0.95 (True Read rate). Special Grade threshold. |
+| Constraint | **Anchor** | Holding a ritual architecture (prohibition-ritual pair) active. |
+
+Voidwalker is not a Grade — it is a condition. A Grade 2 player who holds all four factors is a Voidwalker. A Special Grade player who has abandoned constraint is not. The Special Grade *naming ritual* (Fata archetype) requires Voidwalker status as prerequisite.
 
 ---
 

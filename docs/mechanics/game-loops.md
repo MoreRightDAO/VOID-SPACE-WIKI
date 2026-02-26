@@ -1,6 +1,6 @@
 # Game Loops
 
-VOID-SPACE runs two simultaneous loops. They operate on different timescales and serve different purposes, but they feed each other constantly.
+Twilight of Fantasia runs two simultaneous loops. They operate on different timescales and serve different purposes, but they feed each other constantly.
 
 ---
 
@@ -51,6 +51,11 @@ Territory changes slowly. Domain maturity unlocks campaign access and increases 
 
 *Raids. Arena. Portal Instances. The fight you're in right now.*
 
+!!! tip "Chapter 1 vs Chapter 2"
+    **Chapter 1 (live):** VoidStorms in active campaigns. Injection Arena (live at [moreright.xyz/pages/arena.html](https://moreright.xyz/pages/arena.html)).
+    **Chapter 2:** Culling Game Arena (full PvP scoring competition).
+    **Chapter 3:** Portal Instances (Portal Layer).
+
 Loop B is the game layer — real-time, high-frequency, designed for engagement without compromising the scoring record. Everything in Loop B ultimately feeds back into Loop A stats.
 
 ### VoidStorms (Raid Events)
@@ -70,7 +75,9 @@ When a campaign's collective Void Pressure crosses the Storm Threshold, a VoidSt
 
 Failure to purge VP before storm completion causes **Campaign Destabilization** — the campaign room's Current baseline rises by 1 and the room must be reset by a Lion archetype player.
 
-### Culling Game Arena (PvP)
+### Culling Game Arena (PvP) { data-chapter="2" }
+
+!!! abstract "Chapter 2"
 
 Ranked PvP scoring. Two players produce Pe scores for the same platform without seeing each other's work. The Oracle Panel evaluates for accuracy. Higher ICC-accepted score wins.
 
@@ -93,7 +100,9 @@ Both tracks contribute to the framework's defense architecture. Red Team results
 
 The Arena is run at `moreright.xyz/pages/arena.html`. Ranked leaderboard. MORR awards for top performers each season.
 
-### Portal Instances (Portal Layer)
+### Portal Instances (Portal Layer) { data-chapter="3" }
+
+!!! danger "Chapter 3"
 
 Portal Instances are pure gameplay shells — Minecraft environments, MOBA matches, FPS scenarios, puzzle games — that feed Shards into the Framework Layer via the Universal Stat Contract.
 
@@ -106,6 +115,9 @@ Portal Instances do not produce ICC-accepted scores. They produce character stat
 ---
 
 ## Loop C — The Metagame (Season/War Effort)
+
+!!! danger "Chapter 3 — The Endgame"
+    Loop C activates when the Moon Gate opens. Nothing here is available in Chapter 1 or Chapter 2. This is the destination, not the starting point.
 
 The War Effort is Loop C: the multi-season metagame that all of Loop A and Loop B is building toward.
 

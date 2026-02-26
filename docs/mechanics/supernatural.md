@@ -126,6 +126,6 @@ The Awen (truth-current) is in twilight because:
 3. The judgment figures (Perchta, Rübezahl, Holda) are still arriving, checking the work, but fewer people can see them
 4. The entities that could help most (Pe=0 vampires, mastered werewolves, galdr-class witches) are excluded because the coalition is running on species-sorting
 
-**Twilight of Awen inverts this.** Your faction isn't a moral designation. It's your Pe-working style. An entity with demon aesthetics scoring Pe=0 is a better ally than an entity with angel aesthetics scoring Pe=4.
+**Twilight of Fantasia inverts this.** Your faction isn't a moral designation. It's your Pe-working style. An entity with demon aesthetics scoring Pe=0 is a better ally than an entity with angel aesthetics scoring Pe=4.
 
 The Bastian moment isn't joining the good side. It's learning the measurement — and seeing who was actually on which side all along.

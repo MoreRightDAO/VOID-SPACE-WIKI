@@ -2,6 +2,9 @@
 
 *Six slots. Two trinkets. Four named sets.*
 
+!!! abstract "Chapter 2"
+    This system launches in Chapter 2. Design is documented here for theory-crafting. Nothing on this page is available in Chapter 1.
+
 ---
 
 ## Equipment Slots

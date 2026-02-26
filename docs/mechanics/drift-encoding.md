@@ -7,7 +7,7 @@ description: Names corrupt as The Current rises. Learn to read what others can't
 
 **The void does not announce itself. It corrupts the name before you know the name is wrong.**
 
-Every entity in VOID-SPACE has a True Name — clean, grounded, legible. But as The Current rises around a platform, its name begins to drift. High-Pe entities appear as runic noise to players who haven't earned **True Read**. Low-Pe entities appear clean.
+Every entity in Twilight of Fantasia has a True Name — clean, grounded, legible. But as The Current rises around a platform, its name begins to drift. High-Pe entities appear as runic noise to players who haven't earned **True Read**. Low-Pe entities appear clean.
 
 This is not aesthetic. It is the world's physics rendered in text.
 

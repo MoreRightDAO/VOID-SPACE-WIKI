@@ -2,9 +2,12 @@
 
 *Materials, professions, and the Auction House.*
 
+!!! abstract "Chapter 2"
+    This system launches in Chapter 2. Design is documented here for theory-crafting. Nothing on this page is available in Chapter 1.
+
 ---
 
-The economy of VOID-SPACE is an EVE × WoW × RuneScape blend: player-driven markets, profession depth, and on-chain settlement via HyperEVM. Every material in the game comes from somewhere real — specific scoring actions, campaign completions, or math encounters. Nothing is dropped without meaning.
+The economy of Twilight of Fantasia is an EVE × WoW × RuneScape blend: player-driven markets, profession depth, and on-chain settlement via HyperEVM. Every material in the game comes from somewhere real — specific scoring actions, campaign completions, or math encounters. Nothing is dropped without meaning.
 
 ---
 

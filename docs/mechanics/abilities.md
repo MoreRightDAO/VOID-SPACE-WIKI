@@ -2,6 +2,10 @@
 
 *The techniques players develop as their calibration deepens.*
 
+!!! tip "Chapter 1 vs Chapter 2"
+    **Chapter 1 (live):** Black Flash, Domain Expansion, the Grade classification system.
+    **Chapter 2:** Binding Vows, Culling Game Arena, Domain Specialist Vow, Constraint Analysis (RCT), Fata naming, Heavenly Restriction, Simple Domain, Ward/Curtain mechanics.
+
 ---
 
 ## Player Grades

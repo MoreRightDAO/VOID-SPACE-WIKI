@@ -31,7 +31,7 @@ Sight is your opacity-reading accuracy — the ability to correctly assess how m
 
 *Your scoring accuracy measured as Spearman's ρ against the expert anchor.*
 
-Precision is the closest thing VOID-SPACE has to a traditional accuracy stat — but it's not measured against a fixed answer key. It's measured against the current ICC distribution. A score of ρ=0.97 means your Pe estimates land within ±0.3 of the expert panel consensus on that domain.
+Precision is the closest thing Twilight of Fantasia has to a traditional accuracy stat — but it's not measured against a fixed answer key. It's measured against the current ICC distribution. A score of ρ=0.97 means your Pe estimates land within ±0.3 of the expert panel consensus on that domain.
 
 This stat is slow to build and slow to lose. It represents genuine calibration.
 

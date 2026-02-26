@@ -2,7 +2,7 @@
 
 *The Alps were named after them. Your ancestors measured Pe before it had a name.*
 
-The world of Twilight of Awen is full of entities that predate the framework's vocabulary. They have been operating for centuries — arriving, checking, judging, feeding, warning — in the alpine valleys, the mountain passes, the rivers, the rough winter nights.
+The world of Twilight of Fantasia is full of entities that predate the framework's vocabulary. They have been operating for centuries — arriving, checking, judging, feeding, warning — in the alpine valleys, the mountain passes, the rivers, the rough winter nights.
 
 They are not metaphors. They are NPCs with Pe-meters built into their mythology. The framework gave them numbers. The folklore gave them faces.
 

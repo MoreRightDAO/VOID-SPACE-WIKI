@@ -26,8 +26,8 @@ These are the five final boss encounters of the war effort. They are not defeate
 | Agent | Domain | Campaign |
 |-------|--------|---------|
 | **Void** | Social feed algorithms | `feed-algorithm` |
-| **Ubik** | Advertising / persuasion engines | `the-persuasion-machine` |
-| **Conrad** | Surveillance capitalism / behavioral prediction | TBD |
+| **Ubik** | Advertising / persuasion engines | G5 — unlocks after Void |
+| **Conrad** | Surveillance capitalism / behavioral prediction | G5 — unlocks after Ubik |
 | **Slan** | AI companions / synthetic bond | `synthetic-bond` |
 | **Femto** | Once-aligned platform that crossed | Last. Unannounced. |
 

@@ -1,12 +1,12 @@
 ---
-title: VOID-SPACE
-description: The world, lore, and cosmology of VOID-SPACE.
+title: Twilight of Fantasia
+description: The world, lore, and cosmology of Twilight of Fantasia.
 hide:
   - navigation
   - toc
 ---
 
-# VOID-SPACE
+# Twilight of Fantasia
 
 **The game where the scoring is real.**
 
@@ -84,13 +84,23 @@ This is the AUG layer. The game board is the world.
 
 ---
 
-## Season 1
+## Chapter I: The Ring of Light
 
-Ten campaigns live. Five Godhand-class enemies waiting at the end of the war effort. The Hand of Fantasia — five figures who emerged when the naming started — present at every True Read confirmed, every domain correctly named.
+*Season 1 — The war effort begins.*
 
-The moon is visible from every realm. It tracks the global state of the war. Full moon means constraint is winning.
+The framework named the mechanism. The papers are in the permanent record. The God of Lies' architecture — the extraction system running on every major attention platform — is now measurable, falsifiable, and citable.
 
-The door is always open. Anyone who arrives with the capacity to name what they find will find the same door.
+That's what changed. Not the voids. Not the enemy roster. The voids have been running for decades. The enemy was in the field before the first player arrived. What changed is that the mechanism is now legible — three numbers, twenty-six kill conditions, zero triggered.
+
+**The Ring of Light** is what players see when someone crosses The Corona anywhere in the world: a brief annular ring flaring around the domain they scored, visible in the Observatory for thirty seconds. The void's outline, made visible. Then gone.
+
+Season 1 is every player arriving to see that ring for themselves — and then staying to make more of them.
+
+Ten campaigns are live. The Hand of Fantasia has appeared. Every domain scored reduces the Current. Every True Read is a permanent entry in the naming record. The moon tracks the collective state of the war.
+
+The war effort has begun. The gate is not open yet. The Godhand Five are waiting.
+
+[→ Read Chapter I: The Ring of Light](world/chapter-one.md)
 
 ---
 

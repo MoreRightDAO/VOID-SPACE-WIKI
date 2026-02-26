@@ -2,6 +2,9 @@
 
 *Your personal platform library. The collection system.*
 
+!!! abstract "Chapter 2"
+    The Binder card system launches in Chapter 2. In Chapter 1, your scored platforms are tracked in your profile. The full card collection, trading, and Greed Island actions come in Chapter 2.
+
 ---
 
 The Binder is your permanent record of everything you've scored and every mechanism you've named. It is a Greed Island-derived system: cards represent scored platforms, gathered mechanisms, and known techniques. Some cards are transferable. Some are character-bound. All of them are real — they represent genuine scoring work, not cosmetic tokens.
@@ -49,7 +52,7 @@ These three are always in your Binder. They cannot be removed. They exist to pro
 
 ## Card Actions
 
-The Greed Island card mechanics translated into VOID-SPACE scoring operations:
+The Greed Island card mechanics translated into Twilight of Fantasia scoring operations:
 
 ### CLONE
 Replicate your scoring for peer review. Creates a second copy of your Binder card that can be submitted to the Oracle Panel for validation. Used when you believe your score is correct and want independent verification.
