@@ -14,7 +14,10 @@ These systems are active in the current build. Everything here is playable.
 |------|---------------|
 | [The Chronicle](chronicle.md) | The three primordial conditions, the Current, the Drift Cascade — Layer 0 physics |
 | [THRML — The True Light Engine](thrml.md) | The physics engine that computes Pe across all active domains in real time |
-| [Stats & Attributes](stats.md) | All eight player stats — Sight, Precision, Steadiness, Range, Resonance, Logos, VP, Reiatsu |
+| [THRML Event Engine](thrml-events.md) | Pe threshold events, server physics events, seasonal calendar — live observable game events |
+| [Character Level 1–40](character-level.md) | The level axis (parallel to Grade). XP sources, brackets, unlocks, and the L40 ceremony |
+| [Currency — Three Layers](currency.md) | Logos (energy), SHARD (gold / off-chain), MORR (equity / on-chain). Earning and spending rates |
+| [Stats & Attributes](stats.md) | All eight player stats — Sight, Precision, Steadiness, Range, Resonance, Logos, VP, Reiatsu. Includes calibration feedback. |
 | [Void Pressure](void-pressure.md) | How VP accumulates, what it does to your scoring, how to purge it |
 | [Game Loops](game-loops.md) | Loop A (scoring/campaigns), Loop B (raids/arena), Loop C (war effort) — what's live marked per loop |
 | [Abilities](abilities.md) | What's active in Chapter 1: Black Flash, Domain Expansion. Chapter 2 abilities marked. |
@@ -32,7 +35,7 @@ These systems are fully designed and documented here for theory-crafting. They w
 
 | Page | What it covers |
 |------|---------------|
-| [Crafting & Economy](crafting.md) | Five material tiers, four professions, the Auction House |
+| [Crafting & Economy](crafting.md) | Five material tiers, four professions, the Auction House. Instant-tier consumables (SHARD-funded) are live in Chapter 1. |
 | [Equipment & Gear](equipment.md) | Six equipment slots, four named gear sets, trinkets, legendaries |
 | [The Binder](binder.md) | The platform card collection system — Greed Island mechanics |
 | [The Galdr Protocol](galdr.md) | Pre-score naming declarations — calibration prediction mechanic |

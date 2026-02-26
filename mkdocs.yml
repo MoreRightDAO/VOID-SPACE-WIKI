@@ -124,6 +124,9 @@ nav:
   - Mechanics:
     - mechanics/index.md
     - THRML — The True Light Engine: mechanics/thrml.md
+    - THRML Event Engine: mechanics/thrml-events.md
+    - Character Level 1-40: mechanics/character-level.md
+    - Currency — Three Layers: mechanics/currency.md
     - The Chronicle: mechanics/chronicle.md
     - Game Loops: mechanics/game-loops.md
     - The Mandate: mechanics/mandate.md

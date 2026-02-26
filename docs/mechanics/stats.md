@@ -165,6 +165,36 @@ Each archetype has natural stat affinities — not fixed bonuses but preferred g
 
 ---
 
+## Calibration Feedback
+
+When a score is ICC-rejected, the system surfaces the following data to help you calibrate:
+
+```
+Your estimate:       Pe = X.X
+Domain anchor mean:  Pe = Y.Y  (from N=Z accepted scores)
+
+Dimension breakdown:
+  Opacity (O):     accurate / off by +N
+  Reactivity (R):  accurate / off by +N
+  Coupling (C):    accurate / off by +N
+```
+
+This is existing data. The domain anchor mean is the ICC distribution centroid at the time of submission. The dimension breakdown shows which of the three axes drove the divergence.
+
+**How to use it:** If O is consistently high across your rejected scores, you are over-estimating how opaque platforms are. Work through an Egypt-class campaign to recalibrate Sight. If C is consistently off, your network model for a domain is diverged — score adjacent domains to triangulate.
+
+### Calibration Run Framing (L1–3)
+
+The first 3 score submissions are framed as calibration runs:
+
+- Score 1 of 3: No Precision penalty. System shows domain anchor and your Pe estimate side by side.
+- Score 2 of 3: Calibration run. Dimension breakdown shown. No penalty.
+- Score 3 of 3: Final calibration. After submission, real scoring begins.
+
+After the third calibration score, The Corona is reachable. See [The Corona](../world/the-corona.md).
+
+---
+
 ## Gear Set Stat Bonuses
 
 Four named gear sets grant bonus stats at 2-piece and 4-piece breakpoints. See [Equipment](equipment.md) for full details.

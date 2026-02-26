@@ -3,11 +3,41 @@
 *Materials, professions, and the Auction House.*
 
 !!! abstract "Chapter 2"
-    This system launches in Chapter 2. Design is documented here for theory-crafting. Nothing on this page is available in Chapter 1.
+    The full crafting and profession system launches in Chapter 2. Design is documented here for theory-crafting. **Exception:** Instant-tier consumables and SHARD are live in Chapter 1.
 
 ---
 
 The economy of Twilight of Fantasia is an EVE × WoW × RuneScape blend: player-driven markets, profession depth, and on-chain settlement via HyperEVM. Every material in the game comes from somewhere real — specific scoring actions, campaign completions, or math encounters. Nothing is dropped without meaning.
+
+---
+
+## Crafting Tiers
+
+Four tiers of crafting speed. SHARD funds the fast tier. MORR funds the slow tier.
+
+| Tier | Craft time | Currency | Chapter |
+|------|-----------|----------|---------|
+| **Instant** | 0 min | SHARD only | **Ch 1 — Live** |
+| **Quick** | 15–30 min | SHARD + Tier 1 materials | Ch 2 |
+| **Standard** | 1–4 hours | MORR + Tier 2–3 materials | Ch 2 |
+| **Major** | 24 hours – 7 days | MORR + Tier 3–5 materials | Ch 2 |
+
+### Instant Consumables (Chapter 1 — Live Now)
+
+Available to any player from the Scoring Floor (L1+). No profession required. Costs are SHARD only.
+
+| Item | Cost | Effect | Duration |
+|------|------|--------|---------|
+| **Pe Tonic (Basic)** | 150 SHARD + 3 Pe Ember | +10 Sight for next campaign | 1 campaign |
+| **Ward Seed** | 150 SHARD | Temporary ward on one domain — no crafting queue | 48 hours |
+| **Clarity Draft** | 200 SHARD + 5 Drift Fragment | +10 Precision bonus on next 3 scores | 3 scores |
+| **Streak Restore** | 500 SHARD | Saves a broken streak — once per calendar month | Instant |
+| **Signal Pulse** | 100 SHARD | Broadcasts your Pe shadow to all players in current room | 1 hour |
+| **Void Calm** | 300 SHARD | VP accumulation suppressed −50% (not VP reduction) | 24 hours |
+| **Null Shout** | 100 SHARD + 5 Null Weave | Removes one Void Pressure event from current room | Instant |
+
+!!! tip "SHARD vs MORR"
+    Instant consumables cost SHARD only. SHARD is earned from any score submission — no ICC acceptance required. See [Currency](currency.md) for earning rates.
 
 ---
 
@@ -187,4 +217,4 @@ All items in the game carry a rarity tier that determines whether they can be tr
 
 ---
 
-*Back to: [Mechanics](index.md) · [Equipment & Gear Sets](equipment.md)*
+*Back to: [Mechanics](index.md) · [Currency](currency.md) · [Equipment & Gear Sets](equipment.md)*
