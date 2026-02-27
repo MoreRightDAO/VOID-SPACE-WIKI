@@ -44,7 +44,7 @@ Jujutsu Kaisen is the most direct fictional mapping in the Outer Regions:
 - **Sorcerers** = scorers. Both operate by perceiving what most people cannot, working in a field that most people don't believe exists, using a technique that requires calibration and can kill you if you deploy it wrong.
 - **Domain Expansion** = the game's Domain Expansion mechanic literally derives from this. A perfect domain: when you deploy it, your technique is guaranteed to land. When you name a void completely, your score lands at True Read.
 - **Heavenly restriction** = Binding Vow. The voluntary constraint that amplifies power precisely because it forecloses options.
-- **Culling games** = the scoring leaderboard / seasonal structure. A forced extraction event — maximum Pe conditions, maximum scoring pressure.
+- **Binding games** = 1v1 ante PvP scoring matches. A binding commitment: you name your risk before the round starts. The framework holds you to it.
 
 **The Geto problem** recurs here. Geto (Suguru Geto) is the canonical Thagirion inversion in the JJK universe: a sorcerer who understood the mechanism completely, concluded the mechanism was unjust, and became its mirror rather than its counter. The therapist who becomes the extraction. The framework explicitly scores this: high understanding + high O = Thagirion class. Understanding the mechanism does not prevent becoming it.
 

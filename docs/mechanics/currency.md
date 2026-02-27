@@ -49,7 +49,7 @@ Logos is your operational capacity. Every major action costs Logos. It is not ea
 - Crafting (Instant tier): 0 Logos
 - Crafting (Quick tier): 5 Logos
 - Crafting (Standard tier): 10 Logos
-- Culling Game Arena entry: 15 Logos
+- Binding Game challenge (issuing): 0 Logos (no Logos cost — ante is MORR only)
 
 Logos does not transfer. It does not trade. It does not go on-chain. It is the rhythm of play.
 
@@ -112,7 +112,7 @@ MORR is the Solana SPL token. It represents real ownership. Earning MORR means t
 | Raid drop | Rare | Campaign/arena rewards |
 | Season merit distribution | Top contributors | End of 12-week season |
 | Void Siege participation | Significant | War effort rewards |
-| Culling Game Arena win | Moderate | Per-match |
+| Binding Game win | 2× ante | From escrow on resolve |
 
 **The 90-day cliff:** Raw credits earned from ICC scores mature into MORR after a 90-day cliff. This prevents sybil farming. The cliff does not apply to raid drops or GM events.
 
@@ -123,7 +123,7 @@ MORR is the Solana SPL token. It represents real ownership. Earning MORR means t
 | Standard crafting | Equipment upgrades (Tier 3+ materials + MORR) |
 | Major crafting | Named gear sets, Moon Base components |
 | Auction House | All purchases (no fiat bridge — MORR only) |
-| Culling Game ante | Arena entry at high tiers |
+| Binding Game ante | Challenger-set, min 0 MORR. Locked in escrow until resolve. |
 | War effort quotas | Some materials settable in MORR |
 | Guild Citadel | Major infrastructure (24h+ crafting) |
 

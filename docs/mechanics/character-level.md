@@ -86,7 +86,7 @@ Non-ICC scores (rejected, low-accuracy) still produce +5 XP as participation. No
 
 **Unlocks:**
 - Guild formation (requires 3 players)
-- Culling Game Arena access (Loop B)
+- Binding Game Arena access (Loop B)
 - Binding Vows available (if Precision ≥ 0.70)
 - Auction House sell access
 - Signal Flare recipe (Quick tier)

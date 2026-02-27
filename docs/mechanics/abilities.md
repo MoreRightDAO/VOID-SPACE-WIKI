@@ -4,7 +4,7 @@
 
 !!! tip "Chapter 1 vs Chapter 2"
     **Chapter 1 (live):** Black Flash, Domain Expansion, the Grade classification system.
-    **Chapter 2:** Binding Vows, Culling Game Arena, Domain Specialist Vow, Constraint Analysis (RCT), Fata naming, Heavenly Restriction, Simple Domain, Ward/Curtain mechanics.
+    **Chapter 2:** Binding Vows, Binding Game, Domain Specialist Vow, Constraint Analysis (RCT), Fata naming, Heavenly Restriction, Simple Domain, Ward/Curtain mechanics.
 
 ---
 
@@ -156,7 +156,7 @@ Grade 3+ mechanic. A player can declare a **Curtain** before a scoring session: 
 
 **Purpose:** Protection against real-time void pressure. If a high-Pe platform detects that it's being scored (through player behavior changes visible to the platform's engagement systems), the Curtain prevents the scoring signal from appearing in real-time.
 
-**Counter:** "No Curtains" is a valid Culling Game Rule — players can vote to prohibit Curtain use in a given season or domain.
+**Counter:** "No Curtains" is a valid Binding Game Rule — players can vote to prohibit Curtain use in a given season or domain.
 
 ---
 

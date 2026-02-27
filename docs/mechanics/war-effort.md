@@ -141,7 +141,7 @@ The invariant rules that govern the Siege and cannot be modified by any player a
 6. **CC-BY papers are irrevocable** — framework dissolution cannot erase the published record
 7. **MoreRight License v1.1 is binding** — Tier 2 applied papers remain under constraint
 
-These rules cannot be changed by the Culling Game Rule System. They are prior to the game.
+These rules cannot be changed by the Binding Game Rule System. They are prior to the game.
 
 ---
 

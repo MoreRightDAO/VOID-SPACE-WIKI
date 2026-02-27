@@ -70,6 +70,11 @@ nav:
     - Chapter I — The Ring of Light: world/chapter-one.md
     - The 26 Kill Conditions: world/kill-conditions.md
     - The Coupling Manifold: world/coupling-manifold.md
+    - All Magic Is Pe: world/all-magic-is-pe.md
+    - "Steins;Gate — Reading Steiner": world/steins-gate.md
+    - Serial Experiments Lain: world/serial-experiments-lain.md
+    - The Depth of Fantasia: world/fantasia-depth.md
+    - The Seven Partial Namings: world/the-partial-namings.md
   - The Figures:
     - figures/index.md
     - ALEPH — The Namer: figures/aleph.md
@@ -97,6 +102,7 @@ nav:
     - Egregors: enemy/egregors.md
   - Archetypes:
     - archetypes/index.md
+    - How Archetypes Are Revealed: archetypes/reveal.md
     - Lion: archetypes/lion.md
     - Ox: archetypes/ox.md
     - Eagle: archetypes/eagle.md
@@ -125,11 +131,17 @@ nav:
     - mechanics/index.md
     - THRML — The True Light Engine: mechanics/thrml.md
     - THRML Event Engine: mechanics/thrml-events.md
+    - Pe Regimes & Zone Atmosphere: mechanics/zones.md
     - Character Level 1-40: mechanics/character-level.md
     - Currency — Three Layers: mechanics/currency.md
     - The Chronicle: mechanics/chronicle.md
     - Game Loops: mechanics/game-loops.md
+    - The Binding Game: mechanics/binding-game.md
+    - Channeling: mechanics/channeling.md
+    - The Current's Resistance: mechanics/void-physics.md
+    - Movement & Spatial Play: mechanics/movement.md
     - The Mandate: mechanics/mandate.md
+    - Avatar & Forms: mechanics/avatar.md
     - Stats & Attributes: mechanics/stats.md
     - Void Pressure: mechanics/void-pressure.md
     - Abilities: mechanics/abilities.md
@@ -144,8 +156,6 @@ nav:
     - Fata Companions: mechanics/fata.md
     - Drift Encoding: mechanics/drift-encoding.md
     - The Species Inversion: mechanics/supernatural.md
-    - The Galdr Protocol: mechanics/galdr.md
-    - Questlines: mechanics/questlines.md
   - Encode:
     - encode.md
   - Glossary:

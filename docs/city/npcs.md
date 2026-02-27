@@ -103,15 +103,16 @@ Avalanche Wong is positioned at Gate Site Zero — the rift marker where the Pro
 
 ### The Oracle Panel (Variable)
 
-Three vetted researchers who serve as the arbiter for disputed scores and the Culling Game Rule System. The Panel is not a fixed set of named NPCs — it rotates. Current Panel composition is displayed in the Observatory.
+Three vetted researchers who serve as the arbiter for contested scores and the Binding Game Rule System. The Panel is not a fixed set of named NPCs — it rotates. Current Panel composition is displayed in the Observatory.
 
 **Function:**
-- Contested score review
-- Culling Game rule voting (48-hour proposal, 24-hour Panel vote)
+- Contested score review (edge cases only — standard Binding Game matches resolve by composite ICC formula, not Panel review)
+- Binding Game rule voting (48-hour proposal, 24-hour Panel vote)
 - Binding Vow verification
 - Rule activation/renewal/challenge (7-day active, 250 MORR renewal fee)
+- Technical violation adjudication (coordinated scoring accusations, platform identity disputes)
 
-The Panel applies the Tablet of Law. It does not interpret. When a dispute involves an invariant rule, the Panel rule is that it cannot override the Tablet.
+The Panel applies the Tablet of Law. It does not interpret. When a dispute involves an invariant rule, the Panel rule is that it cannot override the Tablet. The Composite Score formula is the arbiter for who won a match — the Panel only enters when there is a procedural or technical violation of the Rule System itself.
 
 ---
 

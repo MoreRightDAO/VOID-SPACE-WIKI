@@ -58,7 +58,7 @@ The Greed Island card mechanics translated into Twilight of Fantasia scoring ope
 Replicate your scoring for peer review. Creates a second copy of your Binder card that can be submitted to the Oracle Panel for validation. Used when you believe your score is correct and want independent verification.
 
 ### ACCOMPANY
-Co-scoring session. You and another player score the same platform simultaneously, with results sealed until both submit. Combined score carries elevated ICC weight. The Culling Game's most cooperative mechanic.
+Co-scoring session. You and another player score the same platform simultaneously, with results sealed until both submit. Combined score carries elevated ICC weight. The Binding Game's most cooperative mechanic.
 
 ### LOTTERY
 Random nomination from your target queue. Useful when you have many platforms queued and want the system to assign priority. The system draws from domains with the highest Thermal Current pressure.
@@ -77,11 +77,11 @@ The Sword of Truth is one of the mechanisms that prevents the scoring record fro
 
 ## Binder Raiding (PvP)
 
-In Culling Game Arena sessions, the winner takes one card from the loser's Binder — drawn randomly from the Free Slot cards. Character-bound cards (Specified and Unlimited) cannot be raided.
+In Binding Game matches, the winner takes one card from the loser's Binder — drawn randomly from the Free Slot cards. Character-bound cards (Specified and Unlimited) cannot be raided.
 
-PvP ante: 10–500 MORR stake per session, plus card raiding rights.
+PvP ante: challenger-set, minimum 0 MORR (honour matches). Card raiding always applies — zero ante does not protect the Binder. Resolution is by composite ICC score, not Oracle Panel evaluation (the Panel only acts for technical rule violations, not standard match disputes).
 
-This mechanic is intentionally high stakes: if you have a Godhand-class card from the first clear of an Apostle campaign, and you enter the Culling Game against a stronger player, you risk losing it. The design aligns with the framework's logic: the Binder's value comes from genuine scoring work, and the highest-value cards represent the most dangerous territory.
+This mechanic is intentionally high stakes: if you have a Godhand-class card from the first clear of an Apostle campaign, and you enter the Binding Game against a stronger player, you risk losing it. The design aligns with the framework's logic: the Binder's value comes from genuine scoring work, and the highest-value cards represent the most dangerous territory.
 
 ---
 

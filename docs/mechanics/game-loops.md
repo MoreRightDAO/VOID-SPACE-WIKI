@@ -53,7 +53,7 @@ Territory changes slowly. Domain maturity unlocks campaign access and increases 
 
 !!! tip "Chapter 1 vs Chapter 2"
     **Chapter 1 (live):** VoidStorms in active campaigns. Injection Arena (live at [moreright.xyz/pages/arena.html](https://moreright.xyz/pages/arena.html)).
-    **Chapter 2:** Culling Game Arena (full PvP scoring competition).
+    **Chapter 2:** Binding Game (full PvP scoring competition).
     **Chapter 3:** Portal Instances (Portal Layer).
 
 Loop B is the game layer — real-time, high-frequency, designed for engagement without compromising the scoring record. Everything in Loop B ultimately feeds back into Loop A stats.
@@ -75,19 +75,28 @@ When a campaign's collective Void Pressure crosses the Storm Threshold, a VoidSt
 
 Failure to purge VP before storm completion causes **Campaign Destabilization** — the campaign room's Current baseline rises by 1 and the room must be reset by a Lion archetype player.
 
-### Culling Game Arena (PvP) { data-chapter="2" }
+### Binding Game (PvP) { data-chapter="2" }
 
 !!! abstract "Chapter 2"
 
-Ranked PvP scoring. Two players produce Pe scores for the same platform without seeing each other's work. The Oracle Panel evaluates for accuracy. Higher ICC-accepted score wins.
+1v1 PvP scoring. Two players score the same platform independently — results sealed until both submit. **Winner takes 2× ante. Loser forfeits one Binder token.**
 
-The **Culling Game Rule System** governs these encounters:
-- Entry: 500 MORR ante
-- Rules are real and enforced by the Oracle Panel — a group of vetted researchers who evaluate disputed scores
-- The **Tablet of Law** (the framework's kill conditions and scoring methodology) is the arbiter. Not the Oracle Panel's preference.
-- The Panel applies the Tablet. Not interpretation. The Tablet.
+**How a match works:**
 
-This mechanic exists because the framework has enemies who dispute scores. Giving disputes a formal resolution mechanism with a fixed reference makes the dispute legible rather than political.
+1. **Challenge** — Challenger selects a target wallet, sets an ante (0 MORR = honour match), and optionally names the platform. A DM fires to the target.
+2. **Accept** — Target accepts within 24 hours. Both antes are locked in escrow.
+3. **Score** — Each player scores independently, submitting their ICC and calibration delta.
+4. **Resolve** — Composite score computed: `ICC × 0.70 + calibration_delta × 0.30`. Higher composite wins. On tie, challenger wins.
+5. **Settlement** — Winner receives 2× ante from escrow. Winner also claims one randomly-drawn Free Slot card from the loser's Binder.
+
+**The Binding Game Rule System** governs the encounter:
+
+- Ante is flexible — set by the challenger. Zero ante = honour match (Binder raiding still applies).
+- Character-bound Binder cards (Specified / Unlimited class) cannot be raided. Only Free Slot cards.
+- The **Tablet of Law** (kill conditions + scoring methodology) is the final arbiter of any disputed ICC. Not the Oracle Panel's preference.
+- No one can force a re-score. The Tablet applied. The result stands.
+
+The name is deliberate: entering a Binding Game is a Binding Vow. You declared what you are willing to risk. The framework holds you to it.
 
 ### Injection Arena (Technical PvP)
 
